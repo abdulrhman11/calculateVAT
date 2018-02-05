@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783483345396",
+    "firebase_url": "https://calculate-vat.firebaseio.com",
+    "project_id": "calculate-vat",
+    "storage_bucket": "calculate-vat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783483345396:android:93c19eb0a7104ecc",
+        "android_client_info": {
+          "package_name": "saud.abdulrhman.calculatevat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783483345396-j4d5sg7bbcf3i2v0at080p9upq9cnuh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saud.abdulrhman.calculatevat",
+            "certificate_hash": "61d88a884e69474c8449e0f12f6d0644631490e2"
+          }
+        },
+        {
+          "client_id": "783483345396-27gr6fkbcs5n2ismvlj0r94bq08bsrkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYZbEIPyAkiQrJJL0o2ShQnya5QL3A7yU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783483345396-27gr6fkbcs5n2ismvlj0r94bq08bsrkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
